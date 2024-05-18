@@ -1,6 +1,6 @@
 # Welcome to my homework repository
 
-##15.05.2024##
+## 15.05.2024 ##
 ```java
 /* Easy: Ask user for row and column and write in the two dimensional array a value "1" in the correct place.
 Check whether or not the row chosen by user contains all 1.
